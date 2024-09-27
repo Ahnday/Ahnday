@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=첫번째+줄+의+텍스트;두번째+줄+의+텍스트)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mochiy+Pop+One&size=40&pause=1000&color=000000&width=435&lines=Welcome+to+Daehee+Ahn%E2%80%99s+GitHub)](https://git.io/typing-svg)
 
 ## Hi there 👋
 
