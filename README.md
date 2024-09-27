@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mochiy+Pop+One&size=33&pause=1000&color=000000&width=550&lines=Welcome+to+Daehee+Ahn%E2%80%99s+Git)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mochiy+Pop+One&size=33&pause=1000&color=000000&width=600&lines=Welcome+to+Daehee+Ahn%E2%80%99s+Git)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dongle&size=30&pause=1000&color=38C2FF&width=435&lines=%EC%95%88%EB%8C%80%ED%9D%AC%EC%9D%98+%EA%B9%83%ED%97%88%EB%B8%8C%EC%97%90+%EC%98%A4%EC%8B%A0%EA%B2%83%EC%9D%84+%ED%99%98%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
 
 ## Hi there 👋
